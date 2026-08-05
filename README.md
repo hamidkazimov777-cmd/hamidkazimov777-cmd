@@ -4,8 +4,8 @@
 
 **Full-stack developer — I build and ship complete products end-to-end**
 
-[![Telegram](https://img.shields.io/badge/Telegram-@hamidkazimov-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/hamidkazimov)
-[![Email](https://img.shields.io/badge/Email-hamidkazimov777%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hamidkazimov777@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@hamidkazim-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/hamidkazim)
+[![Email](https://img.shields.io/badge/Email-hamid.kazimov96%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hamid.kazimov96@gmail.com)
 
 </div>
 
