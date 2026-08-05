@@ -52,6 +52,6 @@ Not textbook examples — real problems from running these projects live:
 
 <div align="center">
 
-**Reach out:** [Telegram](https://t.me/hamidkazimov) · [Email](mailto:hamidkazimov777@gmail.com)
+**Reach out:** [Telegram](https://t.me/hamidkazim) · [Email](mailto:hamid.kazimov96@gmail.com)
 
 </div>
