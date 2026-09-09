@@ -75,7 +75,7 @@ release the key.
   delays the microphone
 - Non-destructive insertion: the pasteboard is snapshotted and restored
 
-171 unit tests, no network required to run them. Universal binary, MIT licensed.
+142 unit tests, no network required to run them. Universal binary, MIT licensed.
 
 `Swift · AVAudioEngine · whisper.cpp · Accessibility API`
 → [Lyra](https://github.com/hamidkazimov777-cmd/Lyra)
@@ -88,7 +88,7 @@ Full-stack platform for track discovery and delivery: persistent global audio
 player, server-side waveform and preview generation, Telegram-based auth, and an
 admin bot for publishing.
 
-`Next.js · TypeScript · Supabase · PostgreSQL · FFmpeg · Essentia.js (WASM)`
+`Next.js · TypeScript · Supabase · PostgreSQL · FFmpeg · Convertra AudioCore (TypeScript port)`
 → [forzadj](https://github.com/hamidkazimov777-cmd/forzadj) · [forzadj.ru](https://forzadj.ru)
 
 ---
